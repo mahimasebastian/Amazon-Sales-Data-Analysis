@@ -69,14 +69,9 @@ Amazon-Sales-Data-Analysis/
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-
-<h2 align="center">📊 Amazon Sales Dashboard</h2>
-
-<p align="center">
-  <img src="images/amazon sales dashboard.png" alt="Amazon Sales Dashboard" width="1000">
-</p>
+![Amazon Sales Dashboard](IBT%20internship/images/amazon_sales_dashboard.png)
 # 📈 Analysis Performed
 
 ### ✅ Data Cleaning
@@ -253,8 +248,8 @@ These insights can help optimize inventory management, marketing strategies, cus
 
 **Mahima Sebastian**
 
-- GitHub: https://github.com/<your-username>
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin>
+- GitHub: (https://github.com/mahimasebastian)
+- LinkedIn: https://www.linkedin.com/in/mahima-sebastian-545a33300/
 
 ---
 
