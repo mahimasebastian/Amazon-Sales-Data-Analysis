@@ -52,21 +52,6 @@ The objective is to understand sales performance, customer purchasing behavior, 
 
 ---
 
-# 📂 Project Structure
-
-```text
-Amazon-Sales-Data-Analysis/
-│
-├── Amazon_Sales_Analysis.ipynb
-├── Amazon Sales Report.pdf
-├── README.md
-├── requirements.txt
-├── images/
-│   └── dashboard.png
-└── dataset/
-    └── Amazon Sale Report.csv (optional)
-```
-
 ---
 
 ## 📊 Dashboard Preview
