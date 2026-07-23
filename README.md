@@ -71,14 +71,12 @@ Amazon-Sales-Data-Analysis/
 
 # 📊 Dashboard Preview
 
-> Save your dashboard image as **images/amazon sales dashboard.png** so it displays here.
 
-```markdown
-![Dashboard](images/amazon sales dashboard.png)
-```
+<h2 align="center">📊 Amazon Sales Dashboard</h2>
 
----
-
+<p align="center">
+  <img src="images/amazon sales dashboard.png" alt="Amazon Sales Dashboard" width="1000">
+</p>
 # 📈 Analysis Performed
 
 ### ✅ Data Cleaning
