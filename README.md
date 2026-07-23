@@ -71,10 +71,10 @@ Amazon-Sales-Data-Analysis/
 
 # 📊 Dashboard Preview
 
-> Save your dashboard image as **images/dashboard.png** so it displays here.
+> Save your dashboard image as **images/amazon sales dashboard.png** so it displays here.
 
 ```markdown
-![Dashboard](images/dashboard.png)
+![Dashboard](images/amazon sales dashboard.png)
 ```
 
 ---
